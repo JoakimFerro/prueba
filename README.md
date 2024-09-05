@@ -1,5 +1,2 @@
 # prueba
 
-### Hola
-
-- cualquier cosa
